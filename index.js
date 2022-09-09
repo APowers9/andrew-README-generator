@@ -42,4 +42,4 @@ prompt ([
         name:'Questions',
         message:'Enter your socials for your README incase people have any Questions',
     },
-]);
+]).then
